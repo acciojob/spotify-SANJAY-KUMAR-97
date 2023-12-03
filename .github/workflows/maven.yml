@@ -7,4 +7,8 @@ on:
 jobs:
   calling-acciojob-main-action:
     uses: acciojob/acciojob-tests-action/.github/workflows/main-action.yml@main
+<<<<<<< HEAD
     secrets: inherit
+=======
+    secrets: inherit
+>>>>>>> a454bf6f5fe35eb54add5a7b50ec6855645245f9
